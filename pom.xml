@@ -12,7 +12,6 @@
       * jar: 默认方式
       * war: web项目
   -->
-
   <packaging>war</packaging>
 
 </project>
